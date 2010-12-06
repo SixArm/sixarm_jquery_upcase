@@ -1,0 +1,8 @@
+SixArm.com » jQuery » jquery.upcase plugin to convert element text to uppercase
+
+For each element, convert the element text to upper case.
+
+Example:
+  $('.foo').upcase();
+
+
