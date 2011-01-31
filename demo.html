@@ -1,9 +1,6 @@
 <html>
 <head>
 
-<script src="jquery.min.js"></script>
-<script src="jquery.ellipsis.js"></script>
-
 <style>
 div.content{
   font-size: 2em;
@@ -11,6 +8,15 @@ div.content{
   width: 200px;
 }
 </style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script src="jquery.ellipsis.js"></script>
+
+<script>
+  $(document).ready(function() {
+    $('.foo').ellipsis();
+  });
+</script>
 
 </head>
 <body>
