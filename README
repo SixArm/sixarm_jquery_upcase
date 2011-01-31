@@ -5,5 +5,3 @@ and add an ellipsis to the end.
 
 Example:
   $('.foo').ellipsis();
-
-
