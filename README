@@ -1,8 +1,9 @@
-SixArm.com » jQuery » jquery.upcase plugin to convert element text to uppercase
+SixArm.com » jQuery » jquery.ellipsis plugin 
 
-For each element, convert the element text to upper case.
+Truncate text that is too long to fit within its parent element,
+and add an ellipsis to the end.
 
 Example:
-  $('.foo').upcase();
+  $('.foo').ellipsis();
 
 
