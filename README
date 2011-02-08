@@ -1,7 +1,6 @@
-SixArm.com » jQuery » jquery.ellipsis plugin 
+SixArm.com » jQuery » jquery.upcase plugin 
 
-Truncate text that is too long to fit within its parent element,
-and add an ellipsis to the end.
+Convert text to uppercase. This is a simple demo plugin.
 
 Example:
-  $('.foo').ellipsis();
+  $('.foo').upcase();
